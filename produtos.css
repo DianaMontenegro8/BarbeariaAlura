@@ -79,5 +79,19 @@ nav a:hover {
 .produto-preco{
     font-size: 22px;
     font-weight: bolder;
-    margin: 10px 0 0;
+    margin: 10px;
+}
+
+footer {
+    text-align: center;
+    background: url("bg.jpg");
+    padding: 40px 0;
+}
+
+.copyright {
+    color: #ffffff;
+    font-size: 13px;
+    margin-top: 20px 0 0;
+    
+
 }
